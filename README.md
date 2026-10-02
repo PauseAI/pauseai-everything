@@ -1,7 +1,7 @@
 # PauseAI Everything App
 
 > [!WARNING]
-> **This project is discontinued.** PauseAI uses CiviCRM instead. This repository is kept for reference only.
+> **This project is discontinued.** It has been replaced by a different CRM. This repository is kept for reference only.
 
 A custom-built CRM and operational platform for [PauseAI Global](https://pauseai.info). Starts as a CRM, grows into the central hub for managing volunteers, campaigns, and outreach. Supports multi-tenancy via workspaces for PauseAI Global and national chapters.
 
