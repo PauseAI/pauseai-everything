@@ -1,8 +1,11 @@
 # PauseAI Everything App
 
+> [!WARNING]
+> **This project is discontinued.** PauseAI moved to CiviCRM with custom extensions in May 2026, run as a single instance by PauseAI Global with an isolated workspace per chapter. This app was never used with real data, and the Railway deployment referenced below is not PauseAI's CRM. The repository is kept for reference only: please don't build on it or deploy it for a chapter. If your chapter needs CRM access, ask PauseAI Global.
+
 A custom-built CRM and operational platform for [PauseAI Global](https://pauseai.info). Starts as a CRM, grows into the central hub for managing volunteers, campaigns, and outreach. Supports multi-tenancy via workspaces for PauseAI Global and national chapters.
 
-**Production:** https://web-production-4523c.up.railway.app
+**Deployment (unused):** https://web-production-4523c.up.railway.app
 **Repo:** https://github.com/Maximophone/pauseai-everything
 
 ---
@@ -238,7 +241,7 @@ Users have a **global role** (system-wide) and a **workspace role** (per-workspa
 
 Deployed on Railway with three services: **web**, **worker**, **Postgres**. See [docs/deployment.md](docs/deployment.md) for the full guide.
 
-**Current production URL:** https://web-production-4523c.up.railway.app
+**Deployment URL (unused):** https://web-production-4523c.up.railway.app
 
 To deploy:
 ```bash
